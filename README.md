@@ -1,2 +1,0 @@
-# AymousGPT
-AI chat assistant
